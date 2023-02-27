@@ -1,0 +1,49 @@
+html{
+    position: relative;
+}
+body{
+    margin-bottom: 100px;
+}
+.about hr{
+    width: 250px;
+    border-top: 4px solid #333;
+    height: 4px;
+}
+.porfolio hr{
+    width: 250px;
+    border-top: 4px solid #333;
+    height: 4px;
+}
+.contak hr{
+    width: 250px;
+    border-top: 4px solid #333;
+    height: 4px;
+}
+.contak{
+    min-height: 800px;
+}
+section{
+    min-height: 600px;
+}
+
+.porfolio{
+    background-color: #eee;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #999;
+    padding-top: 40px;
+}
+footer p{
+    color: white;
+    font-size: 15px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
